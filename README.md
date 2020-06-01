@@ -40,3 +40,6 @@
 
 ## Информация за автора на проекта
 Кристиян Кирилов - *програмист, хардуерист* (от всичко по малко)
+ - [Chris' GitHub](https://github.com/Kristiyan17)
+ - [Chris' Facebook](https://www.facebook.com/ilovecinnamon123)
+ - [Chris' LickedIn](https://www.linkedin.com/in/kristiyan-kirilov-b896261a8/)
