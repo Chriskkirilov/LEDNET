@@ -31,6 +31,7 @@
 * A към B кабел
 
 ## [Презентация](https://docs.google.com/presentation/d/1Kl1TIclTjbiCRBxUy0PQNiOf59hQmvRr2rkTyPPAn90/edit#slide=id.g6df7031d0e_0_21)
+## [Видео] (https://www.youtube.com/watch?v=rVn4CTaqaKc)
 
 ## Снимки
 ![](https://github.com/Kristiyan17/LEDNET/blob/master/101604989_320160578973371_654539542597992448_n.jpg)
